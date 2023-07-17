@@ -1,16 +1,16 @@
 $rutas = @(
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\controlLenox2",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\RYPESADAS_PRO",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\BOE43AUDIT",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\BOE43",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\BioStar",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\COMPROBANTES",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\DW_RAYMOS",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\ISOKEYNET",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\Ebudgetv2",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\indigo_install",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\Piryp",
-    "\\ryap025bue\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\STG_RAYMOS"
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\",
+    "\\\d$\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\"
 )
 
 foreach ($ruta in $rutas) {
